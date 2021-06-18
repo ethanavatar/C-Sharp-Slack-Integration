@@ -1,6 +1,6 @@
 # C-Sharp-Slack-Integration
 
-Enables sending messages as a Slack Bot in-line.
+A barebones way of sending messages as a Slack Bot in C-Sharp.
 
  - [Usage](#Usage)
  - [Building](#Building)
@@ -75,4 +75,4 @@ For example, to build using `.NET Framework 4.7.1`, `SlackIntegration.csproj` sh
 
 ## Contribute
 
-I am extremely new to C-Sharp so contributions are greatly appreciated, as I will likely learn a lot from any critisism there might be. This is barely what you'd call a project, but I will try to make it as easy and useful as possible in the name of experience, and every piece of input counts.
+I am still relatively new to C-Sharp so contributions are greatly appreciated, as I will likely learn a lot from any critisism there might be. Despite it being a small project, I will try to make it as easy and useful as possible in the name of experience, and every piece of input counts.
