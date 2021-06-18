@@ -33,8 +33,7 @@ namespace Example
 
         public void Main()
         {
-			// As `Bot` send a message to the Channel
-			// with the text "Hello World!"
+            // int Slackbot.Send(string url, string data) -> int statuscode
             Bot.Send(ChannelURL, "Hello World!");
         }
     }
@@ -76,4 +75,4 @@ For example, to build using `.NET Framework 4.7.1`, `SlackIntegration.csproj` sh
 
 ## Contribute
 
-I am extremely new to C-Sharp so contributions are greatly appreciated, as I will likely learn a lot from any critisism there might be. This is barely what you'd call a project, but I will try to make it as easy and useful as possible in the name of experience and every piece of input counts.
+I am extremely new to C-Sharp so contributions are greatly appreciated, as I will likely learn a lot from any critisism there might be. This is barely what you'd call a project, but I will try to make it as easy and useful as possible in the name of experience, and every piece of input counts.
